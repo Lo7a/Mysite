@@ -1,0 +1,140 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h2 {
+  color: #F58653;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding: 5px;
+}
+
+h3 {
+  color: #C0A080;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  color: #F5C453;
+  font-family: 'Montserrat', sans-serif;
+  margin: 50px 20px;
+  font-size: 1.3rem;
+  text-decoration: none;
+
+}
+
+a:hover{
+  color: #DEA057;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #E5C298 10px;
+  border-bottom: none;
+  width: 10%;
+  margin: 70px auto;
+}
+
+.middle-container {
+  margin: 80px 0;
+}
+
+.bottom-container {
+  background-color: #FBF8F1;
+  padding: 40px 0 10px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.gamer {
+  text-decoration: underline;
+}
+
+.intro{
+  width: 60%;
+  margin: auto;
+}
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.copyright{
+  color: #C0A080;
+  font-size: 0.7rem;
+  padding: 5px 0 ;
+}
+
+.lahav-img {
+  width: 20%;
+}
+
+.skill-img {
+  width: 15%;
+  float: left;
+  margin-right: 50px
+}
+
+.game-img {
+  width: 15%;
+  float: right;
+  margin-left: 50px;
+}
+
+.sport-img {
+  width: 15%;
+  float: left;
+  margin-right: 50px
+}
+
+.logo{
+  background-color: #f2edde;
+}
+
+.logo-img{
+  margin: 0;
+  width: 30%;
+  height: 30%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.btn {
+  background: #EB766A;
+  background-image: -webkit-linear-gradient(top, #EB766A, #F58653);
+  background-image: -moz-linear-gradient(top, #EB766A, #F58653);
+  background-image: -ms-linear-gradient(top, #EB766A, #F58653);
+  background-image: -o-linear-gradient(top, #EB766A, #F58653);
+  background-image: linear-gradient(to bottom, #EB766A, #F58653);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #DEA057;
+  background-image: -webkit-linear-gradient(top, #DEA057, #EBD450);
+  background-image: -moz-linear-gradient(top, #DEA057, #EBD450);
+  background-image: -ms-linear-gradient(top, #DEA057, #EBD450);
+  background-image: -o-linear-gradient(top, #DEA057, #EBD450);
+  background-image: linear-gradient(to bottom, #DEA057, #EBD450);
+  text-decoration: none;
+}
